@@ -248,8 +248,7 @@ b.header .logo img {
 #hero {
   width: 100%;
   height: 80vh;
- 
-  background:  linear-gradient(to bottom, rgb(14, 110, 245), rgb(119, 119, 244)), 
+   background:  linear-gradient(to bottom, rgb(14, 110, 245), rgb(119, 119, 244)), 
       url('../img/head4.avif');
   background-size: cover;
 }
